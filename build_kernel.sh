@@ -15,7 +15,7 @@
 #export PATH=$(pwd)/../../toolchain_arm-eabi-4.6/arm-eabi-4.6/bin:$PATH
 
 export ARCH=arm
-export PATH=$(pwd)/../../../../arm-eabi-4.6/bin:$PATH
+export PATH=~/android/aosp/KOT49/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7/bin:$PATH
 export CROSS_COMPILE=arm-eabi-
 
 ##############################################################################
